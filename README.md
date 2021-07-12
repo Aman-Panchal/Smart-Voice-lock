@@ -11,3 +11,4 @@ In this firstly we created a dataset of audio of two person.We use librosa libra
     Sklearn for model building
     Speech recognition to covert audio to txt
     Jupyter notebook, Anaconda as IDE
+![image](https://user-images.githubusercontent.com/62400307/125265558-94d03b80-e322-11eb-93f1-aaa53414d0c9.png)
