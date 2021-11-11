@@ -60,6 +60,7 @@ The audio dataset is a small dataset consist of 200 audio files of English sente
 
 Than created augmentation to upscale the dataset. Than use mfcc library. And by using this library we convert these audio files into numerical values and extract features.
 ![image](https://miro.medium.com/max/996/1*H_lcPB14mWwXrbN_ibIeGw.jpeg)
+
 Then divide this into two for training and testing into 80:20 ratios. Training part is used for different machine learning algorithm.
 
 | Features |class |
@@ -69,6 +70,7 @@ Then divide this into two for training and testing into 80:20 ratios. Training p
 | [-415.59647, 154.93677, -23.800282, 16.818874,... |akash|
 | [-406.82013, 154.63939, -25.195005, 15.650413,.. |akash|
 
+![image](https://www.dovepress.com/cr_data/article_fulltext/s250000/250334/img/IJGM_A_250334_O_F0001g.jpg)
 
 ## Result
 
@@ -89,6 +91,12 @@ loss ='categorical_crossentropy'
 optimizer ='adam'
    
 accuracy : 97.99%
+
+
+## Figure of Project 
+
+![image](https://www.dovepress.com/cr_data/article_fulltext/s250000/250334/img/IJGM_A_250334_O_F0001g.jpg)
+
 
 ## Future Scope
 ~ Connect it with cloud based server and create database of user.
