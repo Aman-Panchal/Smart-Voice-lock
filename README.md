@@ -61,6 +61,11 @@ The audio dataset is a small dataset consist of 200 audio files of English sente
 Than created augmentation to upscale the dataset. Than use mfcc library. And by using this library we convert these audio files into numerical values and extract features.
 ![image](https://miro.medium.com/max/996/1*H_lcPB14mWwXrbN_ibIeGw.jpeg)
 
+Top: a digital signal; Bottom: the Fourier Transform of the signal
+
+![image](https://user-images.githubusercontent.com/62400307/141345273-cb6e9ab5-34f5-4a3a-8d57-23489b146e46.png)
+
+
 Then divide this into two for training and testing into 80:20 ratios. Training part is used for different machine learning algorithm.
 
 | Features |class |
@@ -92,11 +97,17 @@ optimizer ='adam'
    
 accuracy : 97.99%
 
+![image](https://user-images.githubusercontent.com/62400307/141344755-cb4e24cb-bbe8-444a-979e-11de1a9d88ee.png)
+
 
 ## Figure of Project 
 
-![image](https://www.dovepress.com/cr_data/article_fulltext/s250000/250334/img/IJGM_A_250334_O_F0001g.jpg)
+![image](https://user-images.githubusercontent.com/62400307/141345017-e2da15f3-2d90-4fcd-85e7-916764baf37c.png)
 
+
+## Flow Chart
+
+![image](https://user-images.githubusercontent.com/62400307/141344913-4831b0c3-4e56-4252-b7a4-aa5ba013d65c.png)
 
 ## Future Scope
 ~ Connect it with cloud based server and create database of user.
